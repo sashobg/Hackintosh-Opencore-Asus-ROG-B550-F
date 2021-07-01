@@ -1,7 +1,7 @@
 # Hackintosh-Opencore-Asus-ROG-B550-F
 Hackintosh ROG STRIX B550-F / Ryzen 9 3900X / RX570
 
-I'm using this config for 4 months now, it is super stable. 
+I'm daily driving this config for 4 months now, it is super stable. 
 
 <img src="https://raw.githubusercontent.com/sashobg/Hackintosh-Opencore-Asus-ROG-B550-F/master/Screenshots/about.png" alt="about" width="400"/>
 <img src="https://raw.githubusercontent.com/sashobg/Hackintosh-Opencore-Asus-ROG-B550-F/master/Screenshots/geekbench.png" alt="about" width="400"/>
