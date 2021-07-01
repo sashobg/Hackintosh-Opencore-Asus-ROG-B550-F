@@ -9,7 +9,7 @@ I'm using this config for 4 months now, it is super stable.
 | ------------- | --------- |
 | CPU | AMD Ryzen 9 3900X @ 3.8GHz |
 | Motherboard | ASUS Rog Strix B550-F (Wi-Fi) |
-| RAM | 32GB (3 x 16GB) Kingston HyperX FURY @ 3200MHz |
+| RAM | 32GB (2 x 16GB) Kingston HyperX FURY @ 3200MHz |
 | Audio Chipset | ALC1220 |
 | GPU1 | SAPPHIRE NITRO RX 570 4G in PCI slot 2|
 | GPU2 | ASUS GTX1070 8G in PCI slot 1 (for Windows)|
