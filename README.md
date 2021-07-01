@@ -15,7 +15,7 @@ I'm using this config for 4 months now, it is super stable.
 | GPU2 | ASUS GTX1070 8G in PCI slot 1 (for Windows)|
 | Lan |  Intel® I225-V 2.5Gb Ethernet |
 | WiFi |  Fenvi T919 |
-| OS Disk | Intel SSD 180GB |
+| OS Disk | Intel SSD Pro 1500 180GB |
 | macOS | Big Sur 11.2.3 |
 
 ## What works
