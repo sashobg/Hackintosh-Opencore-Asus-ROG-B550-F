@@ -22,11 +22,11 @@ I'm using this config for 4 months now, it is super stable.
 
 - Ethernet
 - USB
+- Embedded Audio
 - iMessage, FaceTime
 
 ## Not tested
 
-- Embedded Audio
 - NVMe (I have a Sabrent 1TB nvme, but I use it for Windows... I will test it soon)
 
 ## Known issues
