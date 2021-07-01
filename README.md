@@ -41,4 +41,5 @@ I'm using this config for 4 months now, it is super stable.
   -  Generate new SMBIOS, I used a serial number which in apple's checkcoverage was showing "We’re sorry, but this serial number isn’t valid" :) 
   -  I disconnected my wifi network, used an ethernet cable and connected my computer direcly to my ISP provider (without router, in that way my IP address is new)
   -  Clear all previous attempts /Dortania's Fixing iServices guide is your friend :)/
+  -  Log into iMessages
 
