@@ -37,11 +37,11 @@ I'm daily driving this config for 4 months now, it is super stable.
 - Sleep is not working - Use Amphetamine app to prevent MacOS to sleep. 
 - I disabled embedded Intel Wi-Fi card kext, because they were causing MacOS to crash, I bought Fenvi T919 (everything works - Handoff, Apple Watch unlock etc.)
 - I was having issues with my USB Audio interface Behringer UMC202HD, audio was dropping occasionally.FIX: I restored my BIOS settings to default and now it's gone. 
-- iMessage and FaceTime were not working. After many tries I called Apple Support, but there was not a problem with my Apple ID and they not found anything... so I tried one more time and it worked. This is my fix:
+- iMessage and FaceTime were not working. After many tries I called Apple Support, but there was not a problem with my Apple ID and they found nothing wrong... so I tried one more time and it worked. This is my fix:
   -  Read and remember all steps from Dortania's Fixing iServices guide (MAC/ROM section, en0!)
   -  Changed SMBIOS from iMacPro1,1 to MacPro7,1. 
   -  Generate new SMBIOS, I used a serial number which in apple's checkcoverage was showing "We’re sorry, but this serial number isn’t valid" :) 
-  -  I disconnected my wifi network, used an ethernet cable and connected my computer direcly to my ISP provider (without router, in that way my IP address is new)
+  -  I disconnected my wifi network, used an ethernet cable and connected my computer direcly to my ISP provider (without router, in that way my IP address is renewed)
   -  Clear all previous attempts /Dortania's Fixing iServices guide is your friend :)/
   -  Log into iMessages
 
